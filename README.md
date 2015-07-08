@@ -25,3 +25,7 @@ you should use smooth colors.
 | Background | 26, 16, 2 | 53, 68, 76, 75 | 26, 38, 11 |
 | Bold | 255, 255, 255 | 0, 0, 0, 0 | 39, 0, 100 |
 | Selected | 86, 90, 114 | 63, 51, 26, 4 | 229, 26, 45 |
+
+## iTerm
+
+![iTerm](iterm.png)
